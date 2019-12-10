@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Enseignant Finder</string>
+
+    <string name="feeling_tired_msg">Chercher Votre Ensaignant.</string>
+
+    <string name="zip_code_img_desc">Button on click show zip code in dialog message</string>
+    <string name="fax_number_img_desc">Button on click show fax number in dialog message</string>
+    <string name="website_img_desc">Button on click open hospital website in browser</string>
+    <string name="call_button_desc">Button on click call the doctor</string>
+    <string name="no_connection_ic_desc">No wifi connection icon showed if there is no internet connection</string>
+    <string name="profile_img">Enseignant Profile image</string>
+
+    <string name="bio_label">Bio : </string>
+    <string name="call">call</string>
+
+    <string name="search_query_hint">Chercher par nom,…etc</string>
+    <string name="search_area">Selectionner votre zone</string>
+    <string name="search_specialty">Select La matieres</string>
+    <string name="select_gender">Select Gender:</string>
+    <string name="no_preference">Les deux</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
+    <string name="start_search">Chercher </string>
+    <string name="no_connection">No network connection!</string>
+
+    <string name="mile">Miles</string>
+
+    <string name="add_doctor_message">Add new doctor</string>
+    <string name="my_doctors">My Enseignants</string>
+    <string name="miles">Miles</string>
+    <string name="no_location_message">No Location Provided!</string>
+    <string name="doctor_location_title">Enseignant\'s Location</string>
+    <string name="no_results">No results!</string>
+    <string name="connection_failed">Connection Failed</string>
+    <string name="no_zip_code">Sorry.I have not zip code!</string>
+    <string name="no_fax_number">Sorry.I have not fax number!</string>
+    <string name="no_website">Sorry, I have not website</string>
+    <string name="no_phone_number">Sorry. I have not phone number!</string>
+    <string name="select_location">please select a location</string>
+    <string name="select_location_or_name_msg">At least select name or location</string>
+
+
+</resources>
