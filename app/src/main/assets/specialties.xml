@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Specialties>
+    <element>
+        <name>Maths</name>
+        <uid>maths</uid>
+    </element>
+
+    <element>
+        <name>Physique</name>
+        <uid>physique</uid>
+    </element>
+
+    <element>
+        <name>Science d'ingenieur</name>
+        <uid>science-ingenieur</uid>
+    </element>
+
+    <element>
+        <name>Arabe</name>
+        <uid>arabe</uid>
+    </element>
+
+
+</Specialties>
